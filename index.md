@@ -7,5 +7,5 @@ This page is mostly for showing off my repos. I'll probally add more stuff to th
 [@haydenwalker980](https://github.com/haydenwalker980)  
 [@cooldoglol](https://github.com/cooldoglol)  
 -------------------  
-![Made with GH Pages](https://img.shields.io/badge/Made%20with-GitHub%20Pages-lightgrey?style=flat-square&logo=github)![Followers](https://img.shields.io/github/followers/rand0mgh?style=flat-square&logo=github)  
+![Made with GH Pages](https://img.shields.io/badge/Made%20with-GitHub%20Pages-lightgrey?style=flat-square&logo=github)
 
