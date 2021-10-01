@@ -1,4 +1,5 @@
-# hello, welcome to my page.
+# Hello, welcome to my page.
+This page is mostly for showing off my repos. I'll probally add more stuff to this soon.
 ## Repos:
-[rand-noncities - The source for my NC page.](https://github.com/rand0mgh/rand-noncities)
-[rand0mgh.github.io - The source for the page your currently lookin at.](https://github.com/rand0mgh/rand0m.github.io)
+[rand-noncities](https://github.com/rand0mgh/rand-noncities) - The source for my NC page.
+[rand0mgh.github.io](https://github.com/rand0mgh/rand0m.github.io) - The source for the page your currently lookin at.
