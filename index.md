@@ -6,6 +6,7 @@ This page is mostly for showing off my repos. I'll probally add more stuff to th
 [binfetch](https://github.com/rand0mgh/binfetch) - Its like Neofetch for [Winfinibins](https://github.com/WindevStudios/Winfinibins)!
 ## Pages:
 [D4OAL](https://rand0mgh.github.io/distros) - My opinions on Linux distros running on old laptops.
+[D4MP](https://rand0mgh.github.io/d4mp) - Distros for mobile phones.
 ## Friends:
 [@haydenwalker980](https://github.com/haydenwalker980)  
 [@cooldoglol](https://github.com/cooldoglol)  
